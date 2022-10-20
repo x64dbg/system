@@ -2,6 +2,7 @@ bin/
 Release/
 Debug/
 x64/
+package/
 .vs/
 *.sdf
 *.opensdf
